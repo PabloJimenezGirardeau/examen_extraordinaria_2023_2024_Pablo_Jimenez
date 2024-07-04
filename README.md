@@ -6,7 +6,7 @@ Este programa en Python solicita al usuario un número entero positivo mayor que
 
 Este es un programa en Python que permite gestionar una lista de tareas. Los usuarios pueden agregar, eliminar y listar tareas a través de una interfaz de consola.
 
-## Características
+### Características
 
 - **Agregar tarea**: Permite al usuario agregar una nueva tarea con un título y una descripción opcional.
 - **Eliminar tarea**: Permite al usuario eliminar una tarea existente ingresando su título.
