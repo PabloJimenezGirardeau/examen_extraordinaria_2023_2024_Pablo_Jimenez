@@ -2,9 +2,9 @@
 ## Ejercicio 1 : Factorización de Números Primos
 Este programa en Python solicita al usuario un número entero positivo mayor que 1 y genera una lista de todos los factores primos de ese número. Además, permite al usuario ingresar otro número o salir del programa después de mostrar los factores primos
 
-## Ejercicio 2: Gestor de Tareas en Python
+## Ejercicio 2: Gestor de Tareas
 
-Este es un programa en Python que permite gestionar una lista de tareas. Los usuarios pueden agregar, eliminar y listar tareas a través de una interfaz de consola.
+Este es un programa que permite gestionar una lista de tareas. Los usuarios pueden agregar, eliminar y listar tareas a través de una interfaz de consola.
 
 ### Características
 
@@ -13,8 +13,8 @@ Este es un programa en Python que permite gestionar una lista de tareas. Los usu
 - **Listar tareas**: Muestra todas las tareas actualmente en la lista.
 - **Salir**: Finaliza el programa.
 
-## Ejercicio 3 : Simulación de una Carrera de Coches en Python
-Este es un programa en Python que simula una carrera de coches donde varios vehículos compiten entre sí. Cada coche tiene una velocidad máxima y una aceleración específica. La carrera se simula en intervalos de tiempo, actualizando la posición de cada coche en cada intervalo.
+## Ejercicio 3 : Simulación de una Carrera de Coches 
+Este es un programa que simula una carrera de coches donde varios vehículos compiten entre sí. Cada coche tiene una velocidad máxima y una aceleración específica. La carrera se simula en intervalos de tiempo, actualizando la posición de cada coche en cada intervalo.
 
 ### Características
 - **Agregar coche**: Permite al usuario agregar un nuevo coche especificando su nombre, velocidad máxima (m/s) y aceleración (m/s²).
